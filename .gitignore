@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.settings
+.buildpath
+.project
+.editorconfig
+!htdocs/css/.gitkeep
+!htdocs/js/.gitkeep
+!htdocs/img/.gitkeep
+!.gitkeep
